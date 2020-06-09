@@ -1,4 +1,6 @@
 import random as rand
+from city import City
+from hospital import Hospital
 
 def flip(individual):
     '''
