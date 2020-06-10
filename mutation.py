@@ -129,3 +129,5 @@ def compararHospitales(individuo,aleatorioIndividuo,aleatorioXY):
         while(getattr(aleatorioIndividuo,"y")==getattr(hospitalAleatorio2,"y")):
          aleatorioIndividuo2 = rand.randint(0,tamano2)   
     return hospitalAleatorio2
+
+
